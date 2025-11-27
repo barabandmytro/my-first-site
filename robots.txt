@@ -10,5 +10,5 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://barabandmytro.github.io/my-first-site/sitemap.xml
 Sitemap: https://barabandmytro.github.io/my-first-site/mysitemap.xml
+
